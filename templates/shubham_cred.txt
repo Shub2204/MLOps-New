@@ -1,0 +1,16 @@
+##Openvpn
+
+username: shubham
+
+password: Dcube#2022
+
+url: https://44.225.25.12:943/?src=connect
+
+
+## aws console(S3)
+
+username: shubham.anand@d3analytics.com
+
+password: qU&}@v!emQOwbgq
+
+console link: https://058682646398.signin.aws.amazon.com/console
